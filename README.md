@@ -1,4 +1,4 @@
-# Using XPath with JavaScript (Update 2023)
+# Using XPath with JavaScript 
 XPath is a powerful language for selecting nodes in an XML or HTML document. JavaScript provides built-in support for XPath through the document.evaluate() method, which can be used to evaluate an XPath expression and return the matching nodes in the document.
 
 ## Usage
