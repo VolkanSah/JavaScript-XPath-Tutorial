@@ -40,4 +40,6 @@ The document.evaluate() method takes several arguments:
 ## Conclusion
 XPath is a powerful tool for selecting and manipulating nodes in an XML or HTML document, and JavaScript provides built-in support for XPath through the document.evaluate() method. With XPath, you can easily target specific nodes in a document and manipulate them to achieve your desired results.
 ## Credits
-by S. Volkan Kücükbudak
+- [VolkanSah on Github](https://github.com/volkansah)
+- [Developer Site](https://volkansah.github.io)
+- [Become a 'Sponsor'](https://github.com/sponsors/volkansah)
